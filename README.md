@@ -7,7 +7,9 @@ In this repository I've colected my solutions to tasks from the programming Fund
 
 ## Contents:
 ▪ [lad_basic_synax](https://github.com/minkova-diyana/python-fundamentals-softuni/tree/main/lad_basic_synax)
+
 ▪ [exercise_basic_synax](https://github.com/minkova-diyana/python-fundamentals-softuni/tree/main/exercise_basic_synax)
+
 ▪ [fundamentals_data_type](https://github.com/minkova-diyana/python-fundamentals-softuni/tree/main/fundamentals_data_type)
 
 For now that's all. Soon there will be more  😉
